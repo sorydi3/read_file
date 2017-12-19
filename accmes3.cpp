@@ -6,7 +6,7 @@
 #include<string>
 #include<iomanip>
 using namespace std;
-
+// added a coment 
 const int CAPACITY = 100;
 struct Vector_enter {
 	unsigned T[CAPACITY];
